@@ -22,4 +22,14 @@ This project detects retinal diseases using OCT images.
 - VID
 - RAO
 - RVO
-- VID# OCT-Disease-Detection
+- VID# OCT## Accuracy Graph
+
+![Accuracy](screenshots/accuracy.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
+## Web Interface
+
+![Interface](screenshots/interface.png)-Disease-Detection
