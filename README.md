@@ -32,4 +32,6 @@ This project detects retinal diseases using OCT images.
 
 ## Web Interface
 
+https://d16a77abe44f3923e9.gradio.live
 ![Interface](screenshots/interface.png)-Disease-Detection
+https://d16a77abe44f3923e9.gradio.live
